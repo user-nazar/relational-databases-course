@@ -1,1 +1,1 @@
-# relational-databases-course
+# MySQL and Java
